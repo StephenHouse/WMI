@@ -33,12 +33,21 @@ I greatly welcome any bugs reports, as well as any suggested improvements. WMI i
 WMI consists of 6 MATLAB® files, described below. It doesn't matter where they are located as long as they are in the same folder as each other. The filenames below are for the most updated versions (which are included in the download file).
 
 Weapon_of_mass_Integration_01_00.p -- This is the analysis program itself.
+
 WMI_Launcher_01_00.m -- Used to launch the program, this file is where you select the program parameters you wish to use.
+
 Composite_Stitch_01_01.p -- Used to create a composite image by extracting individual nanoparticles from (multiple) images(s), if that option is selected.
+
 fmgaussfit_WMI.m -- Used for fitting each nanoparticle with a rotated 2D Gaussian. The original file was developed by Nathan Orloff, and slightly modified here.
+
 ReadDM3.m -- Used for importing Digital Micrograph® .dm3 files into MATLAB®. Developed by Fred Sigworth.
+
 serReader.m -- Used for importing TIA (FEI) .ser files into MATLAB®. Developed by Peter Ercius.
 
+===================================================================
+
 The current version of WMI requirements are:
+
 MATLAB® (2014b or newer. It might work with some older versions, but I can't promise.)
+
 MATLAB® Toolboxes: Curve Fitting, Image Processing, Signal Processing, Statistics, Symbolic Math
