@@ -16,7 +16,7 @@ Details about Stephen (me!) and WMI can be found at www.shouse.me
 
 WMI is free for academic/non-commercial use. (For commercial use, contact me at shouse@gmail.com.) If you do use it for published work, please include the following citation:
 
-<Manuscript submitted and under review>
+(Manuscript submitted and under review)
 
 A detailed discussion of the software and analysis technique it was written for are described in the above paper.
 
